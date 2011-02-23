@@ -71,7 +71,7 @@ public class Fibonacci {
         System.out.println("fib(4):" + ifib(4));
         System.out.println("fib(4):" + ifib(4000));
        // System.out.println("fib(2):" + mfib(2));
-        System.out.println("fib(5):" + mfib(10));
+        System.out.println("fib(5):" + mfib(11));
 
     }
 
